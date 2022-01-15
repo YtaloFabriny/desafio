@@ -23,10 +23,9 @@ main > section img {
     height: 200px;
     margin: 15px 0;
     width: 300px;
-
 }
 
-main > section button {
+button {
     background-color:#9932CC;
     color: white;
     font-size: 15px;
